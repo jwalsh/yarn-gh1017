@@ -1,0 +1,24 @@
+{
+  "name": "@jwalsh/yarn-gh1017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwalsh/yarn-gh1017.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwalsh/yarn-gh1017/issues"
+  },
+  "homepage": "https://github.com/jwalsh/yarn-gh1017#readme",
+  "dependencies": {
+    "a": "github:jwalsh/probable-dollop#a",
+    "b": "github:jwalsh/probable-dollop#b",
+    "master": "github:jwalsh/probable-dollop"
+  }
+}
